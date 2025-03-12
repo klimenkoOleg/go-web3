@@ -1,4 +1,4 @@
-module github.com/go-web3
+module github.com/klimenkoOleg/go-web3
 
 go 1.24.1
 

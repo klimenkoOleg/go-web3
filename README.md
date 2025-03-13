@@ -1,4 +1,4 @@
-# go-web3
+# go-web3 for Ethereum and ZK SSO blockchain
 
 `go-web3` is a Go library designed for interacting with the Ethereum blockchain. It provides utilities for working with Ethereum addresses, computing cryptographic hashes, making it easier to build applications that communicate with Ethereum nodes, send transactions, and interact with smart contracts.
 
